@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Anushreejha
-- 👀 I’m interested in game developing
-- 🌱 I’m currently learning python
+- 👀 I’m interested in hackathons
+- 🌱 I’m currently java
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me anushreejha16@gmail.com
 
